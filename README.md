@@ -1,1 +1,1 @@
-# Ai-assisted-protein-design
+# Thesis Database
